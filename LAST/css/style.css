@@ -1,0 +1,248 @@
+html,body{
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+}
+
+
+
+.nav-wrapper{
+    padding-top: 0%;
+    
+    
+    
+}
+
+span{
+    color: orangered;
+}
+
+
+img{
+    height: 50vh;
+    
+}
+
+
+
+
+.btn, #signin{
+    border-radius: 50px !important;
+    text-align: center;
+    
+    
+}
+
+
+
+.btn, .btn-large, .btn-small{
+    background-color: transparent;
+    border-style:solid;
+    
+
+    
+
+}
+
+.btn:hover, .btn-large:hover, .btn-small:hover{
+    background-color: transparent;
+    border-style: hidden;
+    font-weight:regular;
+}
+
+.btn, .btn-large, .btn-small, .btn-flat{
+    border-radius: 100px;
+    font-weight:bold;
+}
+.btn, .btn-large, .btn-small{
+    color: rgb(255, 0, 0);
+    
+}
+
+span{
+    color: red;
+}
+#let{
+    color: black;
+    font-weight: bold;
+}
+#col-aid{ 
+    padding-left: 60px;  
+}
+#ton{
+    color:black;
+    border-style: none;
+    align-items: center;
+    border-radius: 0px;
+}
+#ton:hover{
+    background-color: transparent;
+    
+    font-weight:regular;
+    
+}
+#text{
+    
+    margin-top:-380px;
+    color: rgb(255, 255, 255);
+    font-weight: 1px;
+    margin-left: 25px;
+    position: absolute;
+}
+#text-me{
+    margin-top:-300px;
+    color: rgb(255, 255, 255);
+    font-weight: 1px;
+    margin-left: 40px;
+    position: absolute;
+}
+#text-sign{
+    margin-top:-120px;
+    color: rgb(255, 255, 255);
+    font-weight: 1px;
+    margin-left: 5px;
+    position: absolute;
+}
+#text:hover{
+    color: rgb(255, 0, 0);
+    transition-duration: 0.7s;
+}
+#text-sign:hover{
+    color: rgb(255, 0, 0);
+    transition-duration: 0.7s;
+}
+
+#text-me:hover{
+    color: rgb(255, 0, 0);
+    transition-duration: 0.7s;
+}
+
+.container-con{
+    background-color: red;
+    height: 50vh;
+    
+}
+.container-meg{
+    background-color: turquoise;
+}
+
+
+
+
+#about{
+    
+    position: relative;
+    top: 15px;
+    padding-left: 0px;
+}
+
+#men{
+    margin-left: 40px;
+    
+}
+
+#section-main{
+    background-color: rgb(0, 0, 0);
+    height: 100vh;
+    color: azure;
+    
+    margin-bottom: 50%;
+}
+
+#project{
+    
+    margin-top: 40px;
+   
+    
+}
+
+
+.image{
+    position: relative; 
+}
+
+.image__img{
+    display: block;
+}
+
+.image__overlay{
+    position: absolute;
+    top: 0%;
+    left:0%;
+    width: 100%;
+    height: 100%;
+    background: rgba(233, 7, 7, 0.164);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+}
+
+
+.image__overlay:hover{
+    opacity: 1;
+    transition: all 1s ease-in-out;
+}
+
+.title{
+    color: rgb(255, 0, 0);
+    font-weight: bolder;
+    font-size: normal;
+    
+    
+}
+
+.title:hover{
+    color: black;
+    transition: all 1s ease-in-out;
+    transition: 2em;
+}
+
+
+
+.disc{
+    line-height: 1px;
+    color: rgb(255, 0, 0);
+    font-weight: bolder;
+    
+}
+
+
+
+
+.div-con{
+    background-color: rgb(0, 0, 0);
+}
+
+
+#mail{
+    color:#000000;
+}
+
+#pim{
+    background-color: rgb(255, 255, 255);
+    padding-bottom: 20px;
+}
+
+
+#but{
+    background-color: transparent;
+    color: black;
+    border-radius: 10px;
+    border-color: black;
+}
+
+#but:hover{
+    color:white;
+    background-color:black;
+}
+
+
+.page-footer{
+    
+    color: #ffffff;
+    
+}
+
+
+
